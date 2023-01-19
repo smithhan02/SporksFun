@@ -44,9 +44,9 @@ namespace SporksFun
                 Console.WriteLine((i + 1) + ": " + histogram);
             }
 
-           
-            
-            
+            Console.WriteLine("Thank you for using the dice throwing simulator. Goodbye! ");
+
+
 
         }
     }
